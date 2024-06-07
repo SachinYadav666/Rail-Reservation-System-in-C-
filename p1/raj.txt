@@ -1,0 +1,33 @@
+Train_Name: HWH HUMSAFAR
+Number_of_tickets: 1
+Ticket_Number: 670272
+Train_Number: 22888
+Type_of_tickets: Sleeper
+Date: 29/7/2024
+Gender: Male
+Category: Children
+Aadhar No: 123456789012
+Cost: 800
+-----------------------------------------------------
+Train_Name: HWH HUMSAFAR
+Number_of_tickets: 1
+Ticket_Number: 663569
+Train_Number: 22888
+Type_of_tickets: AC
+Date: 23/5/2024
+Gender: Female
+Category: Adult
+Aadhar No: 098765432109
+Cost: 2300
+-----------------------------------------------------
+Train_Name: HWH HUMSAFAR
+Number_of_tickets: 1
+Ticket_Number: 387954
+Train_Number: 22888
+Type_of_tickets: Sleeper
+Date: 23/6/2024
+Gender: Male
+Category: Children
+Aadhar No: 123456789009
+Cost: 800
+-----------------------------------------------------
